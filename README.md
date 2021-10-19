@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Arsuo
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning cs50
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me arsuoaliabadi@yahoo.com
 
 <!---
